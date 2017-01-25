@@ -1,0 +1,19 @@
+.centered{
+    text-align: center;
+}
+.text-white{
+    color:white;
+}
+@media only screen and (max-width:995px){
+.col-sm-border-top{
+    border-top:solid 1px grey;
+}
+}
+#menuBar{
+    background-color: rgba(50,50,50,10);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+ul{
+    list-style: none;
+}
